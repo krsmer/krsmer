@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Arif</h1>
-<h3 align="center">A passionate AI, Frontend developer from Türkiye</h3>
+<h3 align="center">A passionate Blockchain, Frontend developer from Türkiye</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
